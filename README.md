@@ -11,9 +11,9 @@ I'm a Master's student in **Information Systems Management** at **TU Berlin**.
 - Programming: Python
 
 ## 🎉 Fun Fact
-Ever since I can remember, I wanted to drive a BMW 7 Series 🚗💨
+<!--Ever since I can remember, I wanted to drive a BMW 7 Series 🚗💨-->
 
 ___
 <!-- ## 📫 How to Reach Me -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2urbinator2&show_icons=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2urbinator2&show_icons=true)-->
