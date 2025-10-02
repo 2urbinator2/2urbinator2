@@ -10,6 +10,9 @@ I'm a Master's student in **Information Systems Management** at **TU Berlin**.
 - **Cloud Computing** (special interest) 
 - Programming: Python
 
+## 🎉 Fun Fact
+Ever since I can remember, I wanted to drive a BMW 7 Series 🚗💨
+
 ___
 <!-- ## 📫 How to Reach Me -->
 
