@@ -1,6 +1,6 @@
 # Hallo, ich bin Felix 👋
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2urbinator2&show_icons=true)
 <!--
 **2urbinator2/2urbinator2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
